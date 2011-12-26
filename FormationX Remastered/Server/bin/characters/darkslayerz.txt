@@ -1,0 +1,227 @@
+[ACCOUNT]
+character-username = darkslayerz
+character-password = niethacken
+
+[CHARACTER]
+character-height = 0
+character-posx = 3002
+character-posy = 3586
+character-rights = 3
+crystal-bow-shots = 0
+VLS-hits = 0
+skull-timer = 0
+[AGILITY]
+ag1 = 0
+ag2 = 0
+ag3 = 0
+ag4 = 0
+ag5 = 0
+ag6 = 0
+KC =4
+totalstored = 0
+DC =7
+Used-Pure = 0
+catChosen = 0
+has-npc = false
+EP = 2
+magic-book = 2
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+selected-coffin = 0
+barrows-killcount = 0
+teleblock-length = 0
+pc-points = 9536
+gwdelay = 0
+Altar = 1
+Arma-KC = 0
+Band-KC = 0
+Zammy-KC = 0
+Sara-KC = 0
+pk-points = 0
+mb-points = 4
+isDonator = 0
+slayerTask = 0
+xpLock = false
+Agrith = false
+Flambeed = false
+Karamel = false
+Dessourt = false
+culin = false
+taskAmount = 0
+magePoints = 0
+autoRet = 0
+trade11 = 0
+SpeDelay = 0
+barrowskillcount = 0
+flagged = true
+Jailed = false
+wave = -1
+fightMode = 0
+lastsummon = -1
+summoningnpcid = 0
+Monkey-Kc = 0
+void = 0	0	0	0	0
+
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	-1	1	
+character-equip = 2	-1	1	
+character-equip = 3	-1	0	
+character-equip = 4	-1	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	1	
+character-equip = 7	-1	1	
+character-equip = 8	-1	1	
+character-equip = 9	-1	1	
+character-equip = 10	-1	1	
+character-equip = 11	-1	1	
+character-equip = 12	-1	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	99	23695345
+character-skill = 1	99	13034436
+character-skill = 2	99	15507550
+character-skill = 3	99	17864329
+character-skill = 4	99	14391160
+character-skill = 5	99	14391160
+character-skill = 6	99	14403160
+character-skill = 7	99	14391160
+character-skill = 8	99	14391160
+character-skill = 9	99	14391160
+character-skill = 10	99	14391160
+character-skill = 11	99	14391160
+character-skill = 12	99	14391160
+character-skill = 13	99	14391160
+character-skill = 14	99	14391160
+character-skill = 15	99	14391160
+character-skill = 16	99	14391160
+character-skill = 17	99	14391160
+character-skill = 18	99	14391160
+character-skill = 19	99	14391160
+character-skill = 20	99	14391160
+character-skill = 21	99	200000000
+character-skill = 22	99	200000000
+character-skill = 23	99	200000000
+character-skill = 24	99	200000000
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	19781	1
+character-bank = 1	13894	1
+character-bank = 2	13888	1
+character-bank = 3	8841	1
+character-bank = 4	13897	1
+character-bank = 5	11665	1
+character-bank = 6	13891	1
+character-bank = 7	13885	1
+character-bank = 8	4152	1
+character-bank = 9	6586	999999997
+character-bank = 10	11733	999999997
+character-bank = 11	996	999306999
+character-bank = 12	9771	2
+character-bank = 13	9756	1
+character-bank = 14	9804	1
+character-bank = 15	9765	1
+character-bank = 16	9762	1
+character-bank = 17	9768	1
+character-bank = 18	11695	1000000000
+character-bank = 19	5699	1000000000
+character-bank = 20	13900	1
+character-bank = 21	13903	1
+character-bank = 22	9770	2
+character-bank = 23	9764	1
+character-bank = 24	9755	1
+character-bank = 25	9761	1
+character-bank = 26	9767	1
+character-bank = 27	9803	1
+character-bank = 28	11725	999999998
+character-bank = 29	11727	999999998
+
+[FRIENDS]
+
+[STORED]
+stored = 0	0
+stored = 1	0
+stored = 2	0
+stored = 3	0
+stored = 4	0
+stored = 5	0
+stored = 6	0
+stored = 7	0
+stored = 8	0
+stored = 9	0
+stored = 10	0
+stored = 11	0
+stored = 12	0
+stored = 13	0
+stored = 14	0
+stored = 15	0
+stored = 16	0
+stored = 17	0
+stored = 18	0
+stored = 19	0
+stored = 20	0
+stored = 21	0
+stored = 22	0
+stored = 23	0
+stored = 24	0
+stored = 25	0
+stored = 26	0
+stored = 27	0
+stored = 28	0
+
+[OCCUPY]
+occupy = 0	false
+occupy = 1	false
+occupy = 2	false
+occupy = 3	false
+occupy = 4	false
+occupy = 5	false
+occupy = 6	false
+occupy = 7	false
+occupy = 8	false
+occupy = 9	false
+occupy = 10	false
+occupy = 11	false
+occupy = 12	false
+occupy = 13	false
+occupy = 14	false
+occupy = 15	false
+occupy = 16	false
+occupy = 17	false
+occupy = 18	false
+occupy = 19	false
+occupy = 20	false
+occupy = 21	false
+occupy = 22	false
+occupy = 23	false
+occupy = 24	false
+occupy = 25	false
+occupy = 26	false
+occupy = 27	false
+occupy = 28	false
+
+[EOF]
+

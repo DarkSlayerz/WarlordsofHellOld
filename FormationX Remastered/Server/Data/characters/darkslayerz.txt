@@ -1,0 +1,259 @@
+[ACCOUNT]
+character-username = darkslayerz
+character-password = niethacken
+
+[CHARACTER]
+character-height = 0
+character-posx = 2980
+character-posy = 3618
+character-rights = 3
+shopcollect = 0
+leverClicked = false
+crystal-bow-shots = 0
+VLS-hits = 0
+skull-timer = 0
+[AGILITY]
+ag1 = 0
+ag2 = 0
+ag3 = 0
+ag4 = 0
+ag5 = 0
+ag6 = 0
+KC =3
+totalstored = 0
+DC =27
+Used-Pure = 0
+catChosen = 0
+has-npc = false
+EP = 3
+magic-book = 2
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 9.5
+selected-coffin = 0
+barrows-killcount = 0
+teleblock-length = 0
+Pest-Control-Points = 5
+ProjectBenelux-Points = 14501
+Donate-Points = 0
+Slayer-Points = 0
+gwdelay = 0
+Altar = 1
+Arma-KC = 0
+Band-KC = 0
+Zammy-KC = 0
+Sara-KC = 0
+mediumPouchDecay = 0
+largePouchDecay = 0
+giantPouchDecay = 0
+pk-points = 8
+mb-points = 0
+isDonator = 1
+slayerTask = 0
+xpLock = false
+Agrith = false
+Flambeed = false
+Karamel = false
+Dessourt = false
+culin = false
+taskAmount = 0
+magePoints = 0
+autoRet = 1
+trade11 = 0
+SpeDelay = 0
+barrowskillcount = 0
+flagged = true
+Jailed = false
+wave = -1
+fightMode = 0
+lastsummon = -1
+summoningnpcid = 0
+Monkey-Kc = 0
+void = 0	0	0	0	0
+
+[EQUIPMENT]
+character-equip = 0	13362	1	
+character-equip = 1	6570	1	
+character-equip = 2	-1	1	
+character-equip = 3	4151	1	
+character-equip = 4	13358	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	1	
+character-equip = 7	13360	1	
+character-equip = 8	-1	1	
+character-equip = 9	-1	1	
+character-equip = 10	11732	1	
+character-equip = 11	-1	1	
+character-equip = 12	15220	1	
+character-equip = 13	-1	1	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	99	15661825
+character-skill = 1	99	14391160
+character-skill = 2	99	14391160
+character-skill = 3	56	14814679
+character-skill = 4	99	14391160
+character-skill = 5	51	14391160
+character-skill = 6	99	14391160
+character-skill = 7	99	14391160
+character-skill = 8	99	14391160
+character-skill = 9	99	14391160
+character-skill = 10	99	14391160
+character-skill = 11	99	14391160
+character-skill = 12	99	14391160
+character-skill = 13	99	14391160
+character-skill = 14	99	14391160
+character-skill = 15	99	14391160
+character-skill = 16	99	14391160
+character-skill = 17	99	14391160
+character-skill = 18	99	14391160
+character-skill = 19	99	14391160
+character-skill = 20	99	14391160
+character-skill = 21	99	14391160
+character-skill = 22	99	14391160
+character-skill = 23	99	14391160
+character-skill = 24	99	14391160
+
+[ITEMS]
+character-item = 0	14485	1
+character-item = 2	14485	1
+character-item = 3	14485	1
+character-item = 4	386	1
+character-item = 7	386	1
+character-item = 8	386	1
+character-item = 9	386	1
+character-item = 10	386	1
+character-item = 11	386	1
+character-item = 12	386	1
+character-item = 13	386	1
+character-item = 14	386	1
+character-item = 15	386	1
+character-item = 16	386	1
+character-item = 17	386	1
+character-item = 18	386	1
+character-item = 19	386	1
+character-item = 20	386	1
+character-item = 21	386	1
+character-item = 22	386	1
+character-item = 23	386	1
+character-item = 24	386	1
+character-item = 25	386	1
+character-item = 26	386	1
+character-item = 27	386	1
+
+[BANK]
+character-bank = 0	14485	2
+character-bank = 1	416	1
+character-bank = 2	1216	1
+character-bank = 3	15334	1
+character-bank = 4	6586	1
+character-bank = 5	4152	1
+character-bank = 6	6738	1
+character-bank = 7	13918	1
+character-bank = 8	13897	1
+character-bank = 10	13888	1
+character-bank = 11	15221	1
+character-bank = 12	7463	1
+character-bank = 14	9245	1
+character-bank = 16	2437	1
+character-bank = 17	2441	1
+character-bank = 18	6686	1
+character-bank = 19	392	19
+character-bank = 20	3025	2
+character-bank = 21	561	500
+character-bank = 22	9076	500
+character-bank = 23	558	500
+character-bank = 24	7937	999999999
+character-bank = 25	1437	999999890
+character-bank = 26	996	1979500000
+character-bank = 27	2369	1
+
+[FRIENDS]
+character-friend = 0	12019064610
+character-friend = 1	43361561945430777
+
+[STORED]
+stored = 0	0
+stored = 1	0
+stored = 2	0
+stored = 3	0
+stored = 4	0
+stored = 5	0
+stored = 6	0
+stored = 7	0
+stored = 8	0
+stored = 9	0
+stored = 10	0
+stored = 11	0
+stored = 12	0
+stored = 13	0
+stored = 14	0
+stored = 15	0
+stored = 16	0
+stored = 17	0
+stored = 18	0
+stored = 19	0
+stored = 20	0
+stored = 21	0
+stored = 22	0
+stored = 23	0
+stored = 24	0
+stored = 25	0
+stored = 26	0
+stored = 27	0
+stored = 28	0
+
+[OCCUPY]
+occupy = 0	false
+occupy = 1	false
+occupy = 2	false
+occupy = 3	false
+occupy = 4	false
+occupy = 5	false
+occupy = 6	false
+occupy = 7	false
+occupy = 8	false
+occupy = 9	false
+occupy = 10	false
+occupy = 11	false
+occupy = 12	false
+occupy = 13	false
+occupy = 14	false
+occupy = 15	false
+occupy = 16	false
+occupy = 17	false
+occupy = 18	false
+occupy = 19	false
+occupy = 20	false
+occupy = 21	false
+occupy = 22	false
+occupy = 23	false
+occupy = 24	false
+occupy = 25	false
+occupy = 26	false
+occupy = 27	false
+occupy = 28	false
+
+[SHOP]
+
+[EOF]
+
