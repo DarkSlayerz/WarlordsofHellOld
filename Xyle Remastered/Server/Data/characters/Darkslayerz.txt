@@ -1,0 +1,178 @@
+[ACCOUNT]
+character-username = Darkslayerz
+character-password = 1101051011161049799107101110
+
+[CHARACTER]
+character-height = 0
+character-posx = 2685
+character-posy = 3727
+character-rights = 3
+character-title = 0
+expLock = false
+crystal-bow-shots = 0
+skull-timer = -1
+magic-book = 1
+prayer-book = 1
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+joinTime = -1
+selected-coffin = 4
+barrows-killcount = 0
+teleblock-length = 0
+pc-points = 0
+slayerTask = 0
+taskAmount = 0
+magePoints = 0
+autoRet = 0
+barrowskillcount = 0
+flagged = true
+wave = 0
+gwkc = 0
+fightMode = 0
+PKP = 42
+yellTag = Default tag
+constitution = 638
+clanchat = 
+specTimer = 0
+familiar = -1
+void = 0	0	0	0	0
+
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	-1	1	
+character-equip = 2	-1	1	
+character-equip = 3	4151	1	
+character-equip = 4	4749	1	
+character-equip = 5	20072	1	
+character-equip = 6	-1	0	
+character-equip = 7	4751	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	99	13342905
+character-skill = 1	99	13064907
+character-skill = 2	99	13060701
+character-skill = 3	1	63458436
+character-skill = 4	99	13050186
+character-skill = 5	99	13034436
+character-skill = 6	99	13063626
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	4713	1
+character-item = 1	10829	1
+character-item = 2	5699	1
+character-item = 3	15273	1
+character-item = 6	2413	1
+character-item = 7	6586	1
+character-item = 8	4737	1
+character-item = 9	11695	1
+character-item = 11	15273	1
+character-item = 12	556	458
+character-item = 13	561	372
+character-item = 14	566	286
+character-item = 15	4715	1
+character-item = 16	2413	1
+character-item = 17	20140	1
+character-item = 18	6915	1
+character-item = 19	6890	1
+character-item = 20	6921	1
+character-item = 21	4715	1
+character-item = 22	7463	1
+character-item = 23	4152	1
+character-item = 24	6738	1
+character-item = 25	20136	1
+character-item = 26	6586	1
+
+[BANK]
+character-bank = 0	396	20
+character-bank = 1	12346	20
+character-bank = 2	996	2000000001
+character-bank = 3	6870	1
+character-bank = 4	12438	1991
+character-bank = 5	4748	1
+character-bank = 6	5699	2
+character-bank = 7	20073	2
+character-bank = 8	4752	3
+character-bank = 9	20136	2
+character-bank = 10	12436	66
+character-bank = 11	12091	23
+character-bank = 12	6915	2
+character-bank = 13	4737	3
+character-bank = 14	10829	2
+character-bank = 15	4713	3
+character-bank = 16	20144	2
+character-bank = 17	4721	1
+character-bank = 18	4715	2
+character-bank = 19	4750	3
+character-bank = 20	4152	3
+character-bank = 21	6738	2
+character-bank = 22	556	1
+character-bank = 23	6921	1
+character-bank = 24	7463	2
+character-bank = 25	6586	2
+character-bank = 26	4719	1
+character-bank = 27	6890	2
+character-bank = 28	6686	9999
+character-bank = 29	2437	9999
+character-bank = 30	2435	10000
+character-bank = 31	3025	9999
+character-bank = 32	2445	10000
+character-bank = 33	2441	9999
+character-bank = 34	2443	10000
+character-bank = 35	15273	9985
+character-bank = 36	12084	1
+character-bank = 37	12094	1
+
+[BOB]
+
+[QP]
+
+[FRIENDS]
+character-friend = 0	718858854691423330
+character-friend = 1	34402119431
+
+[EOF]
+

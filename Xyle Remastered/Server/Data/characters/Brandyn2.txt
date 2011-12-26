@@ -1,0 +1,125 @@
+[ACCOUNT]
+character-username = Brandyn2
+character-password = 108111108495051
+
+[CHARACTER]
+character-height = 0
+character-posx = 3087
+character-posy = 3500
+character-rights = 0
+expLock = false
+crystal-bow-shots = 0
+skull-timer = -1
+magic-book = 0
+prayer-book = 0
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+joinTime = -1
+selected-coffin = 0
+barrows-killcount = 0
+teleblock-length = 0
+pc-points = 0
+slayerTask = 0
+taskAmount = 0
+magePoints = 0
+autoRet = 0
+barrowskillcount = 0
+flagged = false
+wave = 0
+gwkc = 0
+fightMode = 3
+PKP = 11
+yellTag = Default tag
+constitution = 990
+clanchat = 
+specTimer = -26932
+familiar = -1
+void = 0	0	0	0	0
+
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	-1	1	
+character-equip = 2	-1	1	
+character-equip = 3	-1	0	
+character-equip = 4	4712	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	4714	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	99	13049977
+character-skill = 1	99	13067338
+character-skill = 2	99	13047367
+character-skill = 3	1	23672436
+character-skill = 4	99	13057017
+character-skill = 5	99	13034436
+character-skill = 6	99	13034436
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 16	392	1
+character-item = 17	392	1
+character-item = 18	392	1
+character-item = 19	392	1
+character-item = 20	392	1
+character-item = 21	392	1
+character-item = 22	392	1
+character-item = 23	392	1
+character-item = 24	392	1
+character-item = 25	392	1
+character-item = 26	392	1
+character-item = 27	392	1
+
+[BANK]
+
+[BOB]
+
+[QP]
+
+[FRIENDS]
+
+[EOF]
+
