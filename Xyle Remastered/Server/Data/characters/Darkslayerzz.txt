@@ -4,13 +4,13 @@ character-password = 1101051011161049799107101110
 
 [CHARACTER]
 character-height = 0
-character-posx = 3187
-character-posy = 9758
+character-posx = 3370
+character-posy = 3699
 character-rights = 3
 character-title = 0
 expLock = false
 crystal-bow-shots = 0
-skull-timer = -1
+skull-timer = 0
 magic-book = 2
 prayer-book = 2
 brother-info = 0	0
@@ -43,7 +43,7 @@ familiar = -1
 void = 0	0	0	0	0
 
 [EQUIPMENT]
-character-equip = 0	-1	1	
+character-equip = 0	-1	-2	
 character-equip = 1	-1	1	
 character-equip = 2	-1	1	
 character-equip = 3	-1	0	
@@ -77,7 +77,7 @@ character-look = 12	0
 character-skill = 0	99	13043664
 character-skill = 1	99	13034436
 character-skill = 2	99	13034436
-character-skill = 3	1	14748936
+character-skill = 3	99	14748936
 character-skill = 4	99	13038924
 character-skill = 5	99	13034436
 character-skill = 6	99	13034436

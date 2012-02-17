@@ -450,6 +450,7 @@ public class Client extends Player {
 			setSidebarInterface(2, 638);
 			setSidebarInterface(3, 3213);
 			setSidebarInterface(4, 1644);
+getPA().PrayerTab();
 			setSidebarInterface(5, 22500); // Curses - 22500  5608
 			setSidebarInterface(6, getPA().spellBook[playerMagicBook]);
 			setSidebarInterface(7, 18128);		
